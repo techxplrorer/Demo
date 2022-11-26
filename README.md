@@ -2,4 +2,5 @@
 
 Edit
 add jenkins config 
-enable GITSCM 
+enable GITSCM
+Added Jenkins API & Web hook 
