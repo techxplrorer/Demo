@@ -9,3 +9,4 @@ content json type
 secret empty 
 webhook edit
 jenkins ssh
+trigger chk
