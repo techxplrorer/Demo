@@ -8,3 +8,4 @@ Diasable SSL
 content json type 
 secret empty 
 webhook edit
+jenkins ssh
